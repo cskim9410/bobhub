@@ -3,6 +3,10 @@
 > **성수낙낙에 방문한 레이서들을 위한 밥메이트 매칭 서비스**
 
 ## 1️⃣ 서비스 개요
+### 🔗 서비스 도메인
+
+http://kdt-sw3-team17.elicecoding.com/ <br>
+<img src="https://user-images.githubusercontent.com/47781507/210108289-aff149fe-9253-4bbc-a3c8-7c3c90d0aaba.png" alt="BoBHuB_QRcode" width="250">
 
 ### 📌 주제
 
@@ -31,10 +35,7 @@
 
 ## 2️⃣ 서비스 소개
 
-### 🔗 서비스 도메인
 
-http://kdt-sw3-team17.elicecoding.com/ <br>
-<img src="https://user-images.githubusercontent.com/47781507/210108289-aff149fe-9253-4bbc-a3c8-7c3c90d0aaba.png" alt="BoBHuB_QRcode" width="250">
 
 ### 👥 테스트 계정
 
